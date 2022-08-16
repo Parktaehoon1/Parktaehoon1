@@ -10,8 +10,7 @@ Studying:point_down: <br/>
 <br/>
 
 💻My GitHub status💻<br/>
-[![Taehoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parktaehoon1)](https://github.com/Parktaehoon1/github-readme-stats)
-![Parktaehoon1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Parktaehoon1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+[![Taehoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parktaehoon1)](https://github.com/Parktaehoon1/github-readme-stats)![Parktaehoon1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Parktaehoon1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
 
 
 <!--
